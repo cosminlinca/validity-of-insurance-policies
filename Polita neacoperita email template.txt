@@ -1,0 +1,6 @@
+Buna ziua,
+
+Polita cu numarul {0} se incadreaza in conditiile contractuale, insa nu acopera in totalitate valoarea daunei!
+
+Cu stima,
+RPA Team.

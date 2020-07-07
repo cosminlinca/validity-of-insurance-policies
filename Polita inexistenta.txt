@@ -1,0 +1,7 @@
+Buna ziua,
+
+Va informam ca polita cu numarul {0} nu este inregistrata in sistemul nostru.
+Pentru detalii ne gasiti la numarul de telefon 0744 512 333.
+
+Cu stima,
+RPA Team.
