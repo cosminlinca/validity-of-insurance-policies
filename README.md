@@ -43,6 +43,8 @@ As the large volume of data requires repetitive work, the introduction of such a
 
 "Robotic Enterprise Framework is a project template based on State Machines. It is created to fit all of the best practices regarding logging, exception handling, application initialization, and others, being ready to tackle a complex business scenario."
 
+Check https://docs.uipath.com/studio/v2020.10/docs/robotic-enterprise-framework
+
 <img src="Images//ref.JPG">
 
 ## Technologies
