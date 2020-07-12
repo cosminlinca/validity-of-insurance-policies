@@ -21,11 +21,11 @@ As the large volume of data requires repetitive work, the introduction of such a
 
     When running a process, the robot reads all new emails and parses the values found after a certain format.
 
-    <img src="images//rpa_email.JPG"> 
+    <img src="Images//rpa_email.JPG"> 
 
     After parsing the data, all the information found will be saved in exactly the same format in an excel file, which will later represent the INPUT of the problem.
 
-    <img src="images//excel_emails.JPG" width="420"> 
+    <img src="Images//excel_emails.JPG" width="420"> 
     
 
 2. Searching the data in the database/excel file
@@ -36,14 +36,14 @@ As the large volume of data requires repetitive work, the introduction of such a
 
     Depending on the data of the problem, determined by comparison with the database and data from the email, the customer will receive an email containing the necessary information in order to notify him about the status of the policy.
 
-    <img src="images//nu acopera.JPG">    
+    <img src="Images//nu acopera.JPG">    
 
     
 ## Robotic-Enterprise-Framework
 
 "Robotic Enterprise Framework is a project template based on State Machines. It is created to fit all of the best practices regarding logging, exception handling, application initialization, and others, being ready to tackle a complex business scenario."
 
-<img src="images//ref.JPG">
+<img src="Images//ref.JPG">
 
 ## Technologies
 - UiPath Studio
